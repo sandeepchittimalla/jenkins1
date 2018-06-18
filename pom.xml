@@ -65,6 +65,7 @@
     <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
+            <name>HelloMaven-release</name>
             <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
         </repository>
     </distributionManagement>
