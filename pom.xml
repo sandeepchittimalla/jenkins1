@@ -64,8 +64,8 @@
 
     <distributionManagement>
         <repository>
-            <id>myMavenRepo.write</id>
-            <name>HelloMaven-release</name>
+            <id>central</id>
+            <name>Central</name>
             <url>http://54.88.70.80:8081/nexus/#view-repositories</url>
         </repository>
     </distributionManagement>
