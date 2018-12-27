@@ -57,8 +57,8 @@
 
     <repositories>
         <repository>
-            <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
+            <id>Release</id>
+            <url>http://3.83.120.120:8081/nexus/content/repositories/central/</url>
         </repository>
     </repositories>
 
@@ -66,7 +66,7 @@
         <repository>
             <id>central</id>
             <name>Central</name>
-            <url>http://54.88.70.80:8081/nexus/#view-repositories</url>
+            <url>http://3.83.120.120:8081/nexus/content/repositories/central/</url>
         </repository>
     </distributionManagement>
 
